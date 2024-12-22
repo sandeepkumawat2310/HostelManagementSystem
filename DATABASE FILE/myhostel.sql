@@ -187,7 +187,7 @@ CREATE TABLE `manager` (
 
 LOCK TABLES `manager` WRITE;
 /*!40000 ALTER TABLE `manager` DISABLE KEYS */;
-INSERT INTO `manager` VALUES (1234,'Sandeep Kumawat','...','...','...','manager.at1@gmail.com','Male','...','1'),(1235,'Raj kumar','...','...','...','manager.at2@gmail.com','Male','...','2');
+INSERT INTO `manager` VALUES (1234,'Sandeep Kumawat','...','...','...','admin@gmail.com','Male','...','1'),(1235,'Raj kumar','...','...','...','manager.at2@gmail.com','Male','...','2');
 /*!40000 ALTER TABLE `manager` ENABLE KEYS */;
 UNLOCK TABLES;
 
